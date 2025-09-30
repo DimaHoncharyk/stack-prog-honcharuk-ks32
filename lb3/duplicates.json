@@ -1,0 +1,23 @@
+{
+  "scanned_files": 6,
+  "groups": [
+    {
+      "size_bytes": 176,
+      "saved_if_dedup_bytes": 352,
+      "files": [
+        "/Users/administrator/Desktop/стп/.idea/.gitignore",
+        "/Users/administrator/Desktop/стп/lb1/.idea/.gitignore",
+        "/Users/administrator/Desktop/стп/pattern/.idea/.gitignore"
+      ]
+    },
+    {
+      "size_bytes": 639,
+      "saved_if_dedup_bytes": 1278,
+      "files": [
+        "/Users/administrator/Desktop/стп/lb1/.idea/untitled.iml",
+        "/Users/administrator/Desktop/стп/lb2/.idea/lb2.iml",
+        "/Users/administrator/Desktop/стп/pattern/.idea/pattern.iml"
+      ]
+    }
+  ]
+}
